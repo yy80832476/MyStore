@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/tomcat"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/aspectjweaver-1.7.4.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/druid-1.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/ehcache-core-2.6.8.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/fastweixin-1.3.13.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/jackson-core-asl-1.8.4.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/jackson-mapper-asl-1.8.4.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/mapper-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/mybatis-3.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/mybatis-ehcache-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/mybatis-spring-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/pagehelper-3.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/slf4j-log4j12-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-aop-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-aspects-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-beans-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-context-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-context-support-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-core-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-expression-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-jdbc-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-test-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-tx-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-web-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/document/personal/java/workspace/ssm-master/WebRoot/WEB-INF/lib/spring-webmvc-3.2.13.RELEASE.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
